@@ -1,0 +1,4 @@
+opencv_contrib_python
+mediapipe
+numpy
+PySimpleGUI
